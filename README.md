@@ -2,7 +2,7 @@
 
 **DataScope** es una herramienta web ligera para evaluar la **calidad y madurez de datasets**, especialmente orientada a estudiantes de análisis de datos.
 
-🌐 **Demo:** [https://datascope.humanidata.es](https://datascope.humanidata.es)
+🌐 **Demo:** [https://datascope.humanidata.es](https://datascope.humanidata.com)
 
 ---
 
